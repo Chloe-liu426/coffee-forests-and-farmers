@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="850" viewBox="0 0 960 850" role="img" aria-labelledby="title desc">
+  <title id="title">Farmers report a gap between confidence and capacity</title>
+  <desc id="desc">Original dot plot of selected self-reported capacity means from 600 cooperative-member coffee farming households in southwestern Ethiopia. On a five-point scale, ability to demonstrate deforestation-free production scored 3.80; record keeping 2.79; GPS mapping 2.81; supply-chain traceability 2.87; and paying compliance costs 2.74. These are self-assessments, not percentages or audited compliance. Source: Tesfaye Berihun, IGC working paper ETH-24325, February 2026, Table 3, printed page 25.</desc>
+  <rect width="960" height="850" rx="24" fill="#f4f0e7"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#183c32">
+    <text x="46" y="57" font-size="30" font-weight="700">Confidence exceeds reported practical capacity</text>
+    <text x="46" y="96" font-size="21">Selected self-assessments from 600 coffee-farming households</text>
+    <text x="46" y="127" font-size="21">in southwestern Ethiopia · Working paper published February 2026</text>
+    <text x="390" y="173" font-size="20">Average score on a five-point scale</text>
+    <g stroke="#183c32" stroke-opacity="0.13" stroke-width="1">
+      <line x1="410" y1="211" x2="410" y2="620"/><line x1="520" y1="211" x2="520" y2="620"/>
+      <line x1="630" y1="211" x2="630" y2="620"/><line x1="740" y1="211" x2="740" y2="620"/>
+      <line x1="850" y1="211" x2="850" y2="620"/>
+    </g>
+    <g font-size="21" text-anchor="middle">
+      <text x="410" y="202">1</text><text x="520" y="202">2</text><text x="630" y="202">3</text><text x="740" y="202">4</text><text x="850" y="202">5</text>
+    </g>
+    <g stroke="#d1d8cd" stroke-width="3">
+      <line x1="410" y1="258" x2="850" y2="258"/><line x1="410" y1="341" x2="850" y2="341"/>
+      <line x1="410" y1="424" x2="850" y2="424"/><line x1="410" y1="507" x2="850" y2="507"/>
+      <line x1="410" y1="590" x2="850" y2="590"/>
+    </g>
+    <g font-size="23">
+      <text x="46" y="248">Showing deforestation-free</text><text x="46" y="279">production</text>
+      <text x="46" y="349">Record keeping</text><text x="46" y="432">GPS mapping</text>
+      <text x="46" y="515">Supply-chain traceability</text><text x="46" y="598">Paying compliance costs</text>
+    </g>
+    <circle cx="718" cy="258" r="10" fill="#183c32"/><text x="738" y="266" font-size="23" font-weight="700">3.80</text>
+    <g fill="#bb5b38">
+      <circle cx="606.9" cy="341" r="10"/><circle cx="609.1" cy="424" r="10"/>
+      <circle cx="615.7" cy="507" r="10"/><circle cx="601.4" cy="590" r="10"/>
+      <g font-size="23" font-weight="700"><text x="626.9" y="349">2.79</text><text x="629.1" y="432">2.81</text><text x="635.7" y="515">2.87</text><text x="621.4" y="598">2.74</text></g>
+    </g>
+    <line x1="46" y1="650" x2="914" y2="650" stroke="#c7cebf"/>
+    <g font-size="20">
+      <text x="46" y="687" font-weight="700">Self-reports, not verified compliance or percentages.</text>
+      <text x="46" y="719">Selected cooperative-member households; not nationally representative.</text>
+      <text x="46" y="751">Higher values indicate greater reported capacity. No pass/fail threshold.</text>
+      <text x="46" y="796">Original graphic · Data: Berihun, IGC (February 2026), Table 3, p. 25.</text>
+    </g>
+  </g>
+</svg>

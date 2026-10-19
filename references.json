@@ -1,0 +1,191 @@
+{
+  "igc": {
+    "author": "Berihun, T.",
+    "year": "2026",
+    "title": "EU Deforestation Regulation and Ethiopian Smallholder Coffee Farmers: Awareness, Compliance Capacity, and Potential Impacts. IGC Working Paper ETH-24325, February; Table 3, printed p. 25",
+    "url": "https://www.theigc.org/sites/default/files/2026-02/Berihun-Working-Paper-February-2026.pdf",
+    "type": "Working paper; self-reported survey of 600 households, not nationally representative"
+  },
+  "tchibo": {
+    "author": "Coffee Canopy Partnership / Tchibo",
+    "year": "2026",
+    "title": "Coffee Canopy Partnership. Press release, 22 April",
+    "url": "https://www.tchibo.com/media/pages/de/en/news/2026/coffee-canopy-partnership/4586e1865a-1776861386/2026_04_22_press-release_coffee-canopy-partnership.pdf",
+    "type": "Company-hosted partnership announcement; not an independent impact evaluation"
+  },
+  "tasc": {
+    "author": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+    "year": "2026",
+    "title": "Transforming Agricultural Supply Chains (TASC). Updated October",
+    "url": "https://www.giz.de/en/projects/transforming-agricultural-supply-chains-tasc",
+    "type": "Official project description; global multi-commodity commitment"
+  },
+  "ati": {
+    "author": "Ethiopian Agricultural Transformation Institute",
+    "year": "2026",
+    "title": "ATI Conducts Stakeholders Consultations Workshop on Coffee Traceability. 13 June",
+    "url": "https://ati.gov.et/ati-conducts-stakeholders-consultations-workshop-on-coffee-traceability/",
+    "type": "Government institute report on implementation preparation"
+  },
+  "july": {
+    "author": "European Commission",
+    "year": "2026",
+    "title": "Commission updates product scope and tools to support EUDR. 13 July",
+    "url": "https://environment.ec.europa.eu/news/commission-updates-product-scope-and-tools-support-eudr-2026-07-13_en",
+    "type": "Official update"
+  },
+  "guidance": {
+    "author": "European Commission",
+    "year": "2026",
+    "title": "Guidance document for Regulation (EU) 2023/1115. OJ C/2026/3896",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AC_202603896",
+    "type": "Official guidance; certification and third-party verification"
+  },
+  "benchmark": {
+    "author": "European Commission",
+    "year": "n.d.",
+    "title": "Country classification list",
+    "url": "https://green-forum.ec.europa.eu/countries-and-partnerships/country-classification-list_en",
+    "type": "Official EUDR country-risk classifications"
+  },
+  "overview": {
+    "author": "European Commission",
+    "year": "n.d.",
+    "title": "Regulation on Deforestation-free Products",
+    "url": "https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en",
+    "type": "Current official overview and application dates"
+  },
+  "roles": {
+    "author": "European Commission",
+    "year": "n.d.",
+    "title": "Roles and responsibilities",
+    "url": "https://green-forum.ec.europa.eu/nature-and-biodiversity/deforestation-regulation-implementation/roles-and-responsibilities_en",
+    "type": "Official implementation guidance; current actor responsibilities"
+  },
+  "due": {
+    "author": "European Commission",
+    "year": "n.d.",
+    "title": "Understand due diligence",
+    "url": "https://green-forum.ec.europa.eu/nature-and-biodiversity/deforestation-regulation-implementation/understand-due-diligence_en",
+    "type": "Official implementation guidance"
+  },
+  "efi": {
+    "author": "European Forest Institute",
+    "year": "2025",
+    "title": "Ethiopian coffee and the EU Deforestation Regulation (EUDR): state of play, challenges and opportunities. 1 May; pp. 4–5",
+    "url": "https://efi.int/sites/default/files/2026-01/ethiopia-preparedness-check-coffee-efi.pdf",
+    "type": "Preparedness assessment; July 2024 field mission"
+  },
+  "law": {
+    "author": "European Parliament and Council",
+    "year": "2023, amended 2026",
+    "title": "Regulation (EU) 2023/1115, consolidated 18 September 2026; Articles 2, 3, 9 and 38",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A02023R1115-20260918",
+    "type": "Primary legislation"
+  },
+  "amendment": {
+    "author": "European Parliament and Council",
+    "year": "2025",
+    "title": "Regulation (EU) 2025/2650 amending Regulation (EU) 2023/1115",
+    "url": "https://eur-lex.europa.eu/eli/reg/2025/2650/oj",
+    "type": "Primary legislation; revised dates and obligations"
+  },
+  "eurostat": {
+    "author": "Eurostat",
+    "year": "2026",
+    "title": "Import value of coffee more than doubled in a decade. 1 October",
+    "url": "https://ec.europa.eu/eurostat/group/products-eurostat-news/w/ddn-20261001-1",
+    "type": "Official statistics; calendar year 2025, dataset ds-045409"
+  },
+  "fao": {
+    "author": "Food and Agriculture Organization of the United Nations",
+    "year": "2022",
+    "title": "FRA 2020 Remote Sensing Survey: The world's forests—A wealth of biodiversity",
+    "url": "https://www.fao.org/interactive/forests-2020-remotesensing-forestwater/remotesensing/en/",
+    "type": "Global remote-sensing assessment; 2000–2018 period"
+  },
+  "mapping": {
+    "author": "Gallemore, C., et al.",
+    "year": "2025",
+    "title": "Avoiding access inequity due to classification errors in zero-deforestation value chains: Coffee and the European Union Deforestation Regulation. Land Use Policy 157, 107609",
+    "url": "https://doi.org/10.1016/j.landusepol.2025.107609",
+    "type": "Peer-reviewed ground-truth / land-cover comparison; author details corrected in 2026"
+  },
+  "germany": {
+    "author": "German Federal Ministry of Agriculture, Food and Regional Identity (BMLEH)",
+    "year": "2025",
+    "title": "EU-weit einheitliche Regelung für entwaldungsfreie Lieferketten [An EU-wide uniform framework for deforestation-free supply chains]. 14 May",
+    "url": "https://www.bmel.de/DE/themen/wald/waelder-weltweit/entwaldungsfreie-Lieferketten-eu-vo.html",
+    "type": "German-language official source; used for BLE's role, not outdated deadlines"
+  },
+  "fit": {
+    "author": "GIZ / SASI",
+    "year": "2025",
+    "title": "FIT for FAIR closes in Ethiopia: Handover of Policy Recommendations. 1 October",
+    "url": "https://www.sustainable-supply-chains.org/news/fit-for-fair-closes-in-ethiopia-handover-of-policy-recommendations/",
+    "type": "Implementation-process report; recommendations, not achieved national readiness"
+  },
+  "sasiabout": {
+    "author": "GIZ / SASI",
+    "year": "n.d.",
+    "title": "About SASI",
+    "url": "https://www.sustainable-supply-chains.org/about-sasi/",
+    "type": "Programme funding and institutional information"
+  },
+  "inatrace": {
+    "author": "GIZ / SASI",
+    "year": "n.d.",
+    "title": "Improving Transparency for Agricultural Supply Chains: INATrace",
+    "url": "https://www.sustainable-supply-chains.org/topics/digitalisation-traceability/inatrace/",
+    "type": "Programme description; data ownership and open-source traceability"
+  },
+  "sasi": {
+    "author": "GIZ / Sustainable Agricultural Supply Chains Initiative (SASI)",
+    "year": "n.d.",
+    "title": "Ensuring the sustainability of climate smart and fair coffee value chains in Ethiopia",
+    "url": "https://www.sustainable-supply-chains.org/funds-projects/initiative-for-climate-smart-supply-chains/ensuring-the-sustainability-of-climate-smart-and-fair-coffee-value-chains-in-ethiopia/",
+    "type": "Implementer project description; funding and target reach, not evaluated outcomes"
+  },
+  "valuechain": {
+    "author": "Tefera, B., Kassa, H. and Zelalem, T.",
+    "year": "2025",
+    "title": "Analysis of Ethiopian Coffee Value Chain for Compliance with European Union Deforestation Regulation. Trees, Forests and People 22, 100978",
+    "url": "https://doi.org/10.1016/j.tfp.2025.100978",
+    "type": "Peer-reviewed value-chain study"
+  },
+  "wur": {
+    "author": "ten Hove, H., Leuveld, K., Sopov, M. and Waarts, Y.",
+    "year": "2025",
+    "title": "The anticipated impacts of the EUDR on deforestation, forest degradation and coffee producing households: Formulating a Theory of Change based on the cases of Cameroon and Ethiopia. Report 2025-082",
+    "url": "https://doi.org/10.18174/688694",
+    "type": "Wageningen Social & Economic Research; interviews and prospective causal analysis"
+  },
+  "unctad": {
+    "author": "UN Trade and Development (UNCTAD)",
+    "year": "2025",
+    "title": "The future of sustainable trade: Due diligence initiatives, voluntary sustainability standards and developing countries. UNCTAD/DITC/TAB/2024/5",
+    "url": "https://unctad.org/system/files/official-document/ditctab2024d5_en.pdf",
+    "type": "Intergovernmental policy analysis"
+  },
+  "usda": {
+    "author": "USDA Foreign Agricultural Service",
+    "year": "2026",
+    "title": "Coffee Annual: Ethiopia. Report ET2026-0005, 20 May; pp. 2 and 13, Table 3",
+    "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Coffee+Annual_Addis+Ababa_Ethiopia_ET2026-0005.pdf",
+    "type": "Official sector assessment; ECTA estimates and Trade Data Monitor data"
+  },
+  "wits": {
+    "author": "World Bank WITS / UN Comtrade",
+    "year": "2025 data",
+    "title": "Germany: Coffee, not roasted or decaffeinated imports by country (HS 090111)",
+    "url": "https://wits.worldbank.org/trade/comtrade/en/country/DEU/year/2025/tradeflow/Imports/partner/ALL/product/090111",
+    "type": "Trade statistics; gross imports, quantity in kg"
+  },
+  "leakage": {
+    "author": "Yarlagadda, B., et al.",
+    "year": "2025",
+    "title": "Emissions leakage and economic losses may undermine deforestation-linked oil crop import restrictions. Nature Communications 16, 1520",
+    "url": "https://www.nature.com/articles/s41467-025-56693-1",
+    "type": "Model-based study of palm oil and soy, not coffee"
+  }
+}

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="820" viewBox="0 0 960 820" role="img" aria-labelledby="title desc">
+  <title id="title">Coffee travels through a supply chain. Evidence must travel too.</title>
+  <desc id="desc">A conceptual supply chain connects an Ethiopian farmer to a cooperative or mill, exporter, German first EU importer, and roaster or retailer. Solid arrows represent coffee; dotted arrows represent supporting information. Farmers and cooperatives perform production-data work. The first EU importer carries the legal due-diligence obligation. This is not a map or an actual shipment route. A separate trade fact reports that Germany imported 58,721.2 tonnes of unroasted, non-decaffeinated coffee from Ethiopia in calendar 2025, according to WITS and UN Comtrade, HS 090111.</desc>
+  <defs>
+    <style>text{font-family:Arial,Helvetica,sans-serif;fill:#183c32}.node{font-size:22px;font-weight:700;text-anchor:middle}.data{font-size:20px;text-anchor:middle}.note{font-size:21px}.flow{fill:none;stroke:#183c32;stroke-width:3;marker-end:url(#arrow)}.evidence{fill:none;stroke:#bb5b38;stroke-width:3;stroke-dasharray:5 5;marker-end:url(#orange)}</style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10z" fill="#183c32"/></marker>
+    <marker id="orange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10z" fill="#bb5b38"/></marker>
+  </defs>
+  <rect width="960" height="820" rx="18" fill="#f4f0e7"/>
+  <text x="34" y="47" font-size="29" font-weight="700">Coffee travels through a supply chain.</text>
+  <text x="34" y="83" font-size="29" font-weight="700">Evidence must travel too.</text>
+  <text x="34" y="121" font-size="20">Conceptual schematic · not an actual shipment route</text>
+  <text x="34" y="164" font-size="21" font-weight="700">THE COFFEE</text>
+  <g>
+    <rect x="28" y="184" width="148" height="112" rx="10" fill="#dce3d4"/>
+    <rect x="217" y="184" width="148" height="112" rx="10" fill="#dce3d4"/>
+    <rect x="406" y="184" width="148" height="112" rx="10" fill="#dce3d4"/>
+    <rect x="595" y="184" width="148" height="112" rx="10" fill="#183c32"/>
+    <rect x="784" y="184" width="148" height="112" rx="10" fill="#dce3d4"/>
+    <text class="node" x="102" y="230">Ethiopian<tspan x="102" dy="29">farmer</tspan></text>
+    <text class="node" x="291" y="230">Cooperative<tspan x="291" dy="29">/ mill</tspan></text>
+    <text class="node" x="480" y="244">Exporter</text>
+    <text class="node" x="669" y="216" style="fill:#f4f0e7">German first<tspan x="669" dy="29">EU</tspan><tspan x="669" dy="29">importer</tspan></text>
+    <text class="node" x="858" y="230">Roaster /<tspan x="858" dy="29">retailer</tspan></text>
+    <path class="flow" d="M180 240H211"/><path class="flow" d="M369 240H400"/><path class="flow" d="M558 240H589"/><path class="flow" d="M747 240H778"/>
+  </g>
+  <text x="34" y="340" font-size="21" font-weight="700" style="fill:#bb5b38">THE EVIDENCE</text>
+  <g>
+    <rect x="28" y="358" width="148" height="90" rx="8" fill="#f4f0e7" stroke="#c9cfc0"/>
+    <rect x="217" y="358" width="148" height="90" rx="8" fill="#f4f0e7" stroke="#c9cfc0"/>
+    <rect x="406" y="358" width="148" height="90" rx="8" fill="#f4f0e7" stroke="#c9cfc0"/>
+    <rect x="595" y="358" width="148" height="90" rx="8" fill="#f4f0e7" stroke="#bb5b38" stroke-width="2"/>
+    <rect x="784" y="358" width="148" height="90" rx="8" fill="#f4f0e7" stroke="#c9cfc0"/>
+    <text class="data" x="102" y="394">Plot location<tspan x="102" dy="27">+ land history</tspan></text>
+    <text class="data" x="291" y="394">Lot records<tspan x="291" dy="27">+ plot links</tspan></text>
+    <text class="data" x="480" y="394">Shipment<tspan x="480" dy="27">records</tspan></text>
+    <text class="data" x="669" y="394">Due diligence<tspan x="669" dy="27">+ statement</tspan></text>
+    <text class="data" x="858" y="394">Supply-chain<tspan x="858" dy="27">records</tspan></text>
+    <path class="evidence" d="M180 403H211"/><path class="evidence" d="M369 403H400"/><path class="evidence" d="M558 403H589"/><path class="evidence" d="M747 403H778"/>
+  </g>
+  <text class="note" x="34" y="491"><tspan font-weight="700">Data work:</tspan> farmers and cooperatives help collect production records.</text>
+  <text class="note" x="34" y="528"><tspan font-weight="700">Legal due diligence:</tspan> the first EU importer verifies evidence, assesses</text>
+  <text class="note" x="34" y="557">risk, takes necessary mitigation steps and submits the statement.</text>
+  <rect x="28" y="588" width="904" height="149" rx="12" fill="#e4e8dc"/>
+  <text x="48" y="621" font-size="20" font-weight="700">SEPARATE TRADE FACT · NOT A MEASURE OF THE ROUTE ABOVE</text>
+  <text x="48" y="660" font-size="29" font-weight="700">58,721.2 tonnes: Ethiopia → Germany in 2025</text>
+  <text x="48" y="692" font-size="20">German gross imports of unroasted, non-decaffeinated coffee · HS 090111</text>
+  <text x="48" y="720" font-size="20">Source: World Bank WITS / UN Comtrade. Calendar year; all importers.</text>
+  <text x="34" y="775" font-size="20">Original schematic. Conceptual basis: EUDR and GIZ/SASI traceability work.</text>
+  <text x="34" y="802" font-size="20">Simplified stages; the actual chain and information-sharing arrangements vary.</text>
+</svg>
