@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 400" role="img" aria-labelledby="branch-title branch-desc">
+  <title id="branch-title">A branch of coffee cherries</title>
+  <desc id="branch-desc">An original gently irregular illustration of a coffee branch with forest green leaves, terracotta cherries and two roasted beans.</desc>
+  <g stroke="#38291f" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 339C143 289 188 250 230 203S303 105 366 59" fill="none" stroke="#76513c" stroke-width="9"/>
+    <path d="M176 265C138 248 114 224 95 192M227 207C257 203 291 195 326 175M276 147C253 116 239 92 226 62M317 101C344 107 371 111 400 101" fill="none" stroke="#76513c" stroke-width="5"/>
+    <path d="M184 253C117 263 67 234 60 177C105 163 161 192 184 253Z" fill="#355344" stroke-width="2.8"/>
+    <path d="M73 189C106 208 145 234 172 249" fill="none" stroke="#f5eddc" stroke-width="2" opacity=".7"/>
+    <path d="M233 207C264 148 331 137 373 168C353 215 287 232 233 207Z" fill="#355344" stroke-width="2.8"/>
+    <path d="M249 204C281 191 325 179 358 171" fill="none" stroke="#f5eddc" stroke-width="2" opacity=".7"/>
+    <path d="M277 145C226 133 203 88 218 36C266 47 296 89 277 145Z" fill="#355344" stroke-width="2.8"/>
+    <path d="M224 51C244 78 260 107 273 132" fill="none" stroke="#f5eddc" stroke-width="2" opacity=".7"/>
+    <path d="M320 102C342 67 385 61 427 87C408 124 358 135 320 102Z" fill="#355344" stroke-width="2.8"/>
+    <path d="M335 102C359 100 389 95 410 91" fill="none" stroke="#f5eddc" stroke-width="2" opacity=".7"/>
+    <path d="M209 228L201 248M224 211L237 232M285 135L299 147M306 111L321 130" fill="none" stroke="#76513c" stroke-width="4"/>
+    <path d="M201 244C185 242 174 258 178 275C181 293 202 300 215 285C228 272 220 250 201 244Z" fill="#ba7154" stroke-width="3"/>
+    <path d="M236 229C219 230 211 248 216 263C222 279 244 282 254 265C264 250 253 230 236 229Z" fill="#ba7154" stroke-width="3"/>
+    <path d="M297 145C282 147 274 161 279 174C285 190 301 194 312 181C324 166 316 146 297 145Z" fill="#ba7154" stroke-width="3"/>
+    <path d="M322 128C307 127 297 141 301 154C305 170 322 177 335 165C349 151 341 132 322 128Z" fill="#ba7154" stroke-width="3"/>
+    <path d="M190 255L186 263M232 240L227 248M292 154L287 162M319 138L314 145" fill="none" stroke="#f5eddc" stroke-width="3" opacity=".65"/>
+    <path d="M260 310C278 299 300 309 299 332C299 354 278 371 262 358C248 347 246 320 260 310Z" fill="#76513c" stroke-width="3"/>
+    <path d="M280 309C263 323 285 340 266 359" fill="none" stroke="#f5eddc" stroke-width="3"/>
+    <path d="M325 302C345 305 354 325 339 342C323 359 297 353 297 334C297 317 309 301 325 302Z" fill="#76513c" stroke-width="3"/>
+    <path d="M342 316C321 312 324 340 304 344" fill="none" stroke="#f5eddc" stroke-width="3"/>
+  </g>
+</svg>

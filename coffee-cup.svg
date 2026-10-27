@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" role="img" aria-labelledby="cup-title cup-desc">
+  <title id="cup-title">A warm cup of coffee</title>
+  <desc id="cup-desc">An original hand-shaped ceramic cup with coffee, curling steam, a small leaf motif and two scattered roasted beans.</desc>
+  <g stroke="#38291f" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M268 153C332 137 339 219 275 233L272 211C308 207 311 170 272 177Z" fill="#ba7154" stroke-width="5"/>
+    <path d="M67 275C105 253 272 250 311 275C327 286 293 306 203 310C121 313 60 293 67 275Z" fill="#355344" stroke-width="4"/>
+    <path d="M91 278C130 289 253 291 291 276" fill="none" stroke="#f5eddc" stroke-width="3" opacity=".65"/>
+    <path d="M94 151L107 239C113 269 141 282 187 282C234 281 263 263 268 235L277 151Z" fill="#ba7154" stroke-width="4.5"/>
+    <path d="M99 151C97 132 137 119 187 119C241 118 277 131 277 150C277 170 235 180 185 180C134 180 99 168 99 151Z" fill="#f5eddc" stroke-width="4"/>
+    <path d="M114 154C124 139 151 134 185 134C222 133 250 141 262 153C247 167 220 172 184 172C153 172 126 167 114 154Z" fill="#76513c" stroke-width="2.5"/>
+    <path d="M129 151C150 140 183 139 211 142" fill="none" stroke="#f5eddc" stroke-width="3" opacity=".55"/>
+    <path d="M119 185L125 226C127 240 131 247 138 252" fill="none" stroke="#f5eddc" stroke-width="5" opacity=".55"/>
+    <path d="M187 247C168 235 168 215 179 206C197 209 204 225 187 247Z" fill="#355344" stroke-width="2.3"/>
+    <path d="M187 247C182 234 180 221 179 213M188 241C195 230 205 223 214 220" fill="none" stroke-width="2.3"/>
+    <path d="M191 238C189 222 200 209 222 213C223 228 211 239 191 238Z" fill="#355344" stroke-width="2.3"/>
+    <path d="M193 235L214 218" fill="none" stroke="#f5eddc" stroke-width="1.7"/>
+    <path d="M151 100C132 82 167 73 153 51M195 94C220 74 181 61 199 31M232 105C248 92 231 83 239 68" fill="none" stroke="#76513c" stroke-width="5"/>
+    <path d="M317 265C330 256 345 263 344 279C343 294 328 305 317 295C307 287 307 272 317 265Z" fill="#76513c" stroke-width="2.5"/>
+    <path d="M331 265C319 275 334 284 320 297" fill="none" stroke="#f5eddc" stroke-width="2.3"/>
+    <path d="M354 295C366 297 371 310 362 319C352 330 336 326 336 315C336 305 344 294 354 295Z" fill="#76513c" stroke-width="2.5"/>
+    <path d="M365 304C350 301 354 318 340 321" fill="none" stroke="#f5eddc" stroke-width="2.3"/>
+  </g>
+</svg>

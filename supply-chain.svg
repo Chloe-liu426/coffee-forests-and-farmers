@@ -2,11 +2,11 @@
   <title id="title">Coffee travels through a supply chain. Evidence must travel too.</title>
   <desc id="desc">A conceptual supply chain connects an Ethiopian farmer to a cooperative or mill, exporter, German first EU importer, and roaster or retailer. Solid arrows represent coffee; dotted arrows represent supporting information. Farmers and cooperatives perform production-data work. The first EU importer carries the legal due-diligence obligation. This is not a map or an actual shipment route. A separate trade fact reports that Germany imported 58,721.2 tonnes of unroasted, non-decaffeinated coffee from Ethiopia in calendar 2025, according to WITS and UN Comtrade, HS 090111.</desc>
   <defs>
-    <style>text{font-family:Arial,Helvetica,sans-serif;fill:#183c32}.node{font-size:22px;font-weight:700;text-anchor:middle}.data{font-size:20px;text-anchor:middle}.note{font-size:21px}.flow{fill:none;stroke:#183c32;stroke-width:3;marker-end:url(#arrow)}.evidence{fill:none;stroke:#bb5b38;stroke-width:3;stroke-dasharray:5 5;marker-end:url(#orange)}</style>
-    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10z" fill="#183c32"/></marker>
-    <marker id="orange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10z" fill="#bb5b38"/></marker>
+    <style>text{font-family:Arial,Helvetica,sans-serif;fill:#38291f}.node{font-size:22px;font-weight:700;text-anchor:middle}.data{font-size:20px;text-anchor:middle}.note{font-size:21px}.flow{fill:none;stroke:#38291f;stroke-width:3;marker-end:url(#arrow)}.evidence{fill:none;stroke:#a05b3b;stroke-width:3;stroke-dasharray:5 5;marker-end:url(#orange)}</style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10z" fill="#38291f"/></marker>
+    <marker id="orange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10z" fill="#a05b3b"/></marker>
   </defs>
-  <rect width="960" height="820" rx="18" fill="#f4f0e7"/>
+  <rect width="960" height="820" rx="18" fill="#f5eddc"/>
   <text x="34" y="47" font-size="29" font-weight="700">Coffee travels through a supply chain.</text>
   <text x="34" y="83" font-size="29" font-weight="700">Evidence must travel too.</text>
   <text x="34" y="121" font-size="20">Conceptual schematic · not an actual shipment route</text>
@@ -15,22 +15,22 @@
     <rect x="28" y="184" width="148" height="112" rx="10" fill="#dce3d4"/>
     <rect x="217" y="184" width="148" height="112" rx="10" fill="#dce3d4"/>
     <rect x="406" y="184" width="148" height="112" rx="10" fill="#dce3d4"/>
-    <rect x="595" y="184" width="148" height="112" rx="10" fill="#183c32"/>
+    <rect x="595" y="184" width="148" height="112" rx="10" fill="#38291f"/>
     <rect x="784" y="184" width="148" height="112" rx="10" fill="#dce3d4"/>
     <text class="node" x="102" y="230">Ethiopian<tspan x="102" dy="29">farmer</tspan></text>
     <text class="node" x="291" y="230">Cooperative<tspan x="291" dy="29">/ mill</tspan></text>
     <text class="node" x="480" y="244">Exporter</text>
-    <text class="node" x="669" y="216" style="fill:#f4f0e7">German first<tspan x="669" dy="29">EU</tspan><tspan x="669" dy="29">importer</tspan></text>
+    <text class="node" x="669" y="216" style="fill:#f5eddc">German first<tspan x="669" dy="29">EU</tspan><tspan x="669" dy="29">importer</tspan></text>
     <text class="node" x="858" y="230">Roaster /<tspan x="858" dy="29">retailer</tspan></text>
     <path class="flow" d="M180 240H211"/><path class="flow" d="M369 240H400"/><path class="flow" d="M558 240H589"/><path class="flow" d="M747 240H778"/>
   </g>
-  <text x="34" y="340" font-size="21" font-weight="700" style="fill:#bb5b38">THE EVIDENCE</text>
+  <text x="34" y="340" font-size="21" font-weight="700" style="fill:#a05b3b">THE EVIDENCE</text>
   <g>
-    <rect x="28" y="358" width="148" height="90" rx="8" fill="#f4f0e7" stroke="#c9cfc0"/>
-    <rect x="217" y="358" width="148" height="90" rx="8" fill="#f4f0e7" stroke="#c9cfc0"/>
-    <rect x="406" y="358" width="148" height="90" rx="8" fill="#f4f0e7" stroke="#c9cfc0"/>
-    <rect x="595" y="358" width="148" height="90" rx="8" fill="#f4f0e7" stroke="#bb5b38" stroke-width="2"/>
-    <rect x="784" y="358" width="148" height="90" rx="8" fill="#f4f0e7" stroke="#c9cfc0"/>
+    <rect x="28" y="358" width="148" height="90" rx="8" fill="#f5eddc" stroke="#c9cfc0"/>
+    <rect x="217" y="358" width="148" height="90" rx="8" fill="#f5eddc" stroke="#c9cfc0"/>
+    <rect x="406" y="358" width="148" height="90" rx="8" fill="#f5eddc" stroke="#c9cfc0"/>
+    <rect x="595" y="358" width="148" height="90" rx="8" fill="#f5eddc" stroke="#a05b3b" stroke-width="2"/>
+    <rect x="784" y="358" width="148" height="90" rx="8" fill="#f5eddc" stroke="#c9cfc0"/>
     <text class="data" x="102" y="394">Plot location<tspan x="102" dy="27">+ land history</tspan></text>
     <text class="data" x="291" y="394">Lot records<tspan x="291" dy="27">+ plot links</tspan></text>
     <text class="data" x="480" y="394">Shipment<tspan x="480" dy="27">records</tspan></text>
